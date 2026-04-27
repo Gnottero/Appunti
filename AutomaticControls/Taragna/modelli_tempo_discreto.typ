@@ -1,4 +1,4 @@
-#import "../template.typ": *
+#import "../../template.typ": *
 
 #show : project.with(
   title: "Modellistica dei Sistemi Dinamici a Tempo Discreto",

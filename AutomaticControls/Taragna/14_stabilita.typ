@@ -1,4 +1,4 @@
-#import "../template.typ": *
+#import "../../template.typ": *
 
 #show : project.with(
   title: "Stabilità Interna di Sistemi Dinamici",

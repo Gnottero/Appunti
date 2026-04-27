@@ -1,4 +1,4 @@
-#import "../template.typ": *
+#import "../../template.typ": *
 
 #show : project.with(
   title: "Stabilità dell'equilibrio di sistemi dinamici non lineari per linearizzazione",

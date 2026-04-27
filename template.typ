@@ -142,7 +142,7 @@
 
   // Impostazioni del Font
   // Fallback su Arial/Courier se Fira non è installato
-  set text(font: "JetbrainsMono Nerd", size: 11pt, lang: "it", fill: rgb("#f5f5f5"))
+  set text(font: "Roboto", size: 11pt, lang: "it", fill: rgb("#f5f5f5"))
   
   show raw.where(block: true): it => block(
     fill: rgb("#262a37"),
