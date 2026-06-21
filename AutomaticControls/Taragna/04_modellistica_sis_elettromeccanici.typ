@@ -105,7 +105,7 @@ Affinchè il comando di armatura funzioni correttamente, dobbiamo "congelare" il
 $ Phi(t) eq dash(Phi) quad forall t $
 
 Come si ottiene questo fisicamente? In due modi:
-+ Usando dei magnati permanenti nello statore (soluzione tipica nei piccoli motori, come i servomotori o i motorini dei droni)
++ Usando dei magneti permanenti nello statore (soluzione tipica nei piccoli motori, come i servomotori o i motorini dei droni)
 
 + Se lo statore ha degli avvolgimenti, alimentandoli con una corrente continua costante $dash(i)_e$. In questo caso l'equazione elettrica di eccitazione diventa puramente statica ($v_e eq R_e dash(i)_e$) e smette di essere di nostro interesse per la dinamica
 
